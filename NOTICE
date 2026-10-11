@@ -1,0 +1,12 @@
+PackPlan 1.0.0
+Copyright 2026 上海如静知华信息科技有限公司
+https://www.zhuatech.cn/ · 商业咨询微信 zhuatech / zhuatech2
+
+自有源码按根目录 LICENSE 提供非商业学习许可。身份、目录、构建和备份部分复用本公司 KeyDesk 自有代码；箱件几何、CSV预检、布局版本、复核流程和轴测视图独立编写。
+
+Vue / Vite / plugin-vue / ESLint / globals / Prettier: retain package-distributed MIT notices.
+Lucide (@lucide/vue): retain ISC notices and applicable MIT icon notices distributed with the package.
+Spring Boot / Spring Security / Spring Data / Flyway: retain distributed Apache-2.0 notices.
+MySQL Connector/J: retain distributed GPL-2.0 and Universal FOSS Exception notices.
+H2 test dependency: retain distributed MPL-2.0/EPL-1.0 notices.
+Docker images (Maven, Eclipse Temurin, Node, Nginx, MySQL) carry additional third-party notices. This file is an attribution index, not a replacement license. Review dependency and image distributions before redistribution.
